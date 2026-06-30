@@ -18,7 +18,5 @@ My name is Manoj Singh, and I am from Uttarakhand, India. I have 1.5+ years of p
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manoj1541&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=manoj1541&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
